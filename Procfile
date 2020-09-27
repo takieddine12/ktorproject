@@ -1,1 +1,1 @@
-web: ./build/install/ktorapi/bin/ktorapi
+web: ./build/install/ktorApi/bin/ktorApi
